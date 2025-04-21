@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/view_texto_da_questao"
+        android:layout_width="379dp"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:padding="24dp" />
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/botao_verdadeiro"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:insetRight="8dp"
+            android:text="@string/botao_verdadeiro" />
+
+        <Button
+            android:id="@+id/botao_falso"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/botao_falso" />
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/botao_cola"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/botao_cola" />
+
+    <Button
+        android:id="@+id/botao_proximo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:drawableRight="@drawable/arrow_right"
+        android:drawablePadding="4dp"
+        android:text="@string/botao_proximo" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/botao_mostra_questoes"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Mostra" />
+
+        <Button
+            android:id="@+id/botao_deleta"
+            android:layout_width="267dp"
+            android:layout_height="wrap_content"
+            android:text="Deleta" />
+    </LinearLayout>
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/view_scrolavel">
+
+        <TextView
+            android:id="@+id/texto_questoes_a_apresentar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:autoLink="web"
+
+            android:lineSpacingExtra="@dimen/espaco_de_linhas"
+            android:padding="@dimen/padding_regular"
+            android:text="@string/texto_padrao_mostra_questoes" />
+    </ScrollView>
+
+</LinearLayout>

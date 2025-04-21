@@ -1,0 +1,23 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/udo/AndroidStudioProjects/GeoQuiz/app/src/main/res/layout-land/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/udo/AndroidStudioProjects/GeoQuiz/app/src/main/res/layout-land/teste.xml" value="0.1626984126984127" />
+        <entry key="..\:/Users/udo/AndroidStudioProjects/GeoQuiz/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/udo/AndroidStudioProjects/GeoQuiz_v3/app/src/main/res/layout-land/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/udo/AndroidStudioProjects/GeoQuiz_v3/app/src/main/res/layout/activity_cola.xml" value="0.1" />
+        <entry key="..\:/Users/udo/AndroidStudioProjects/GeoQuiz_v3/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/udo/AndroidStudioProjects/GeoQuiz_v4 - SQLite/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/udofr/AndroidStudioProjects/GeoQuiz_v4 - SQLite/app/src/main/res/layout/activity_cola.xml" value="0.17291666666666666" />
+        <entry key="..\:/Users/udofr/AndroidStudioProjects/GeoQuiz_v4 - SQLite/app/src/main/res/layout/activity_main.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

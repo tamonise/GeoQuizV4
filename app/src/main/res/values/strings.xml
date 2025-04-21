@@ -1,0 +1,89 @@
+<resources>
+    <string name="app_name">GeoQuiz V4 - SQLite</string>
+    <string name="botao_verdadeiro">Verdadeiro</string>
+    <string name="botao_falso">Falso</string>
+    <string name="toast_correto">Correto!</string>
+    <string name="toast_incorreto">Incorreto!</string>
+    <string name="toast_julgamento">Não vale, você colou!</string>
+    <string name="botao_proximo">Proximo</string>
+
+    <string name="texto_advertencia">Tem certeza que quer ver a resposta?</string>
+    <string name="botao_mostra_reposta">Mostra resposta</string>
+    <string name="botao_cola">Colar!</string>
+    <string name="texto_avaliacao">Cola está incorreta. </string>
+
+    <string name="questao_alemanha">A capital da Alemanha é Munique</string>
+    <string name="questao_suez">O Canal de Suez conecta o Oceano Índico com o Mar Vermelho</string>
+    <string name="texto_padrao_mostra_questoes"> Nenhuma questão a apresentar </string>
+    <string name="texto_do_artigo">
+        E agora, José? \n
+A festa acabou,\n
+a luz apagou,\n
+o povo sumiu,\n
+a noite esfriou,\n
+e agora, José?\n
+e agora, você?\n
+você que é sem nome,\n
+que zomba dos outros,\n
+você que faz versos,\n
+que ama, protesta?\n
+e agora, José?\n
+\n
+Está sem mulher,\n
+está sem discurso,\n
+está sem carinho,\n
+já não pode beber,\n
+já não pode fumar,\n
+cuspir já não pode,\n
+a noite esfriou,\n
+o dia não veio,\n
+o bonde não veio,\n
+o riso não veio,\n
+não veio a utopia\n
+e tudo acabou\n
+e tudo fugiu\n
+e tudo mofou,\n
+e agora, José?\n
+
+E agora, José?\n
+Sua doce palavra,\n
+seu instante de febre,\n
+sua gula e jejum,\n
+sua biblioteca,\n
+sua lavra de ouro,\n
+seu terno de vidro,\n
+sua incoerência,\n
+seu ódio — e agora?\n
+\n
+Com a chave na mão\n
+quer abrir a porta,\n
+não existe porta;\n
+quer morrer no mar,\n
+mas o mar secou;\n
+quer ir para Minas,\n
+Minas não há mais.\n
+José, e agora?\n
+
+Se você gritasse,\n
+se você gemesse,\n
+se você tocasse\n
+a valsa vienense,\n
+se você dormisse,\n
+se você cansasse,\n
+se você morresse…\n
+Mas você não morre,\n
+você é duro, José!\n
+
+Sozinho no escuro\n
+qual bicho-do-mato,\n
+sem teogonia,\n
+sem parede nua\n
+para se encostar,\n
+sem cavalo preto\n
+que fuja a galope,\n
+você marcha, José!\n
+José, para onde?\n
+        Fonte: www.culturagenial.com/poemas-de-carlos-drummond-de-andrade
+        \n\n
+    </string>
+</resources>
